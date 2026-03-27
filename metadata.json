@@ -1,0 +1,5 @@
+{
+  "name": "Kinetic Wall Digital Twin",
+  "description": "An interactive 3D simulation of a kinetic folding-star mechanical sculpture with parametric controls.",
+  "requestFramePermissions": []
+}
